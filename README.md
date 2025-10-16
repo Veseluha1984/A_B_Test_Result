@@ -48,7 +48,7 @@ The analysis includes:
 ---
 
 ## 📈 Example Visualization
-<p align="center">
+<p align="link">
   <img src="plots/output.png" alt="Conversion Rates Comparison" width="600">
 </p>
 
