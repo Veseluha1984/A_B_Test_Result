@@ -48,7 +48,7 @@ The analysis includes:
 ---
 
 ## 📈 Example Visualization
-![Conversion Rates Comparison](plots/conversion_rate.png)
+![Conversion Rates Comparison](plots/output.png)
 
 ---
 
@@ -58,3 +58,4 @@ Data Analyst | Business & Security Management background
 📍 Wettingen, Aargau, Switzerland  
 📧 yauhenivesialukha@icloud.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yauheni-vesialukha/) | [Portfolio](https://yauheni-vesialukha.netlify.app/)
+.
