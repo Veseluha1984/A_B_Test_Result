@@ -1,4 +1,4 @@
-# === Reproducibility ===
+# Reproducibility
 python>=3.10
 
 # Core libraries
